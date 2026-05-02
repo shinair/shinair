@@ -1,10 +1,6 @@
 ### Hi there 👋
-I'm Shirish Nair, a passionate software engineer actively seeking new opportunities. My GitHub is a snapshot of my coding journey, showcasing projects that reflect my skills in software development. 
-
-- 🔭 As a Graduate Research Assistant, I’m currently making changes to the fork of OpenEMR, tailoring it specifically for the Department of Health Informatics at Indiana University-Purdue University, Indianapolis (IUPUI).
-- 🌱 I'm currently expanding my proficiency in front-end technologies by exploring React and Vue.js, while also delving into the intricacies of TypeScript.
-- 👯 I'm eager to collaborate on open-source projects centered around web application development and full-stack development.
-- 📫 How to reach me: shirishnair16@gmail.com / ssnair@purdue.edu
+Mid-senior level software engineer with experience building and supporting backend services and SaaS applications. Interested in scalable systems, clean architecture, and solving real world problems through software. Feel free to reach out if you would like to connect, collaborate, or discuss opportunities.
+- 📫 How to reach me: shirishnair16@gmail.com
 
 
 <!--
